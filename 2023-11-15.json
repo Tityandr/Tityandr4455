@@ -1,0 +1,26 @@
+{
+  "name": "Helena Murray",
+  "age": 43,
+  "address": {
+    "street": "Irman Circle",
+    "city": "Toumko",
+    "state": "NM",
+    "zip": "68532"
+  },
+  "contact": {
+    "phone": "(949) 411-1355",
+    "servicePhone": "800236862"
+  },
+  "birthday": "1971-05-17T08:41:32.971Z",
+  "ip": "85.173.48.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Rojutu emo heldedke afoz kalopeg fafidfom gi huj fateti dib ji gubun pulened wefi waorimoj fimhotwu ehiep. Mugo gomew zoztin ma suw bomuz ilo co es dul vigkilne fop jatliwes fa zut ta ipo uf. Novo mesvibfa tolji si go pomag ap dese uv wep wuctoede moaren.",
+    "bio": "Jeopied tif pulzozom jeojfu ozawifu ig ziktelcef igupoj gobal lewogke jovwo ijomi rugebsac puwwew. Gecasov jo ifteuk taok wopinhu vodef gubgojto jicez cukhewtu zoekwi dave ehukiug. Gijambem azi bu ewiafmo uzosutva fepiaf jijkumhu pudado fepwage wat feew tacaneh."
+  },
+  "apiKey": "7fd2495f5e00a55cecf7c3c9878a49f87c039fbe1df94f504f1c4dfb837c630f",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
