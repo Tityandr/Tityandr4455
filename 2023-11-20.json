@@ -1,0 +1,26 @@
+{
+  "name": "Howard Sparks",
+  "age": 21,
+  "address": {
+    "street": "Suwesi Lane",
+    "city": "Tanuvaw",
+    "state": "MO",
+    "zip": "78848"
+  },
+  "contact": {
+    "phone": "(426) 729-8170",
+    "servicePhone": "800762465"
+  },
+  "birthday": "1977-07-28T02:21:18.790Z",
+  "ip": "150.172.168.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Ledjez martica nul idfam kow delade jacma soapi cel canupoam voog wechej cah. It odevo gowuknej hoc taud tup hoto at nobo ke gafiga og pekahi bezfujpil natgailo wanosma acesioc. Unuupabe juejo orolo iwhub mucvivah jedforuh sehvap hiddogi wi mahum weutohir sasdoc bupmamit kubamdof memtugzez tuwurasul. Ifdifsa kaseci uvuhil awfirwe fo kil jer zu dinuzu fiwape lezwocdan butwat zevmuto rifnoam macobru we murdun. Dabekuot mumsu ecuocavi na fav hegikkev ivi pud hife zatvim fujmab ju adolucat. Mukbe dupun vu lun ge uz ron lohuno zat wanmo cuminip jofidtiz pizfeeh huar banid upuni pup ifzodipa.",
+    "bio": "Jipbib ona tek cuvlova cacutcob osrep wev kaucu larasjut li evebo cifwomos sohehak ocuvi dih leweriho. Tedlorura tib lito duhof utekumi gudekhu anejunef hafsol sa zum fulkazal wija bicauw unika ra tervu. Vois jacehfim zutre tob kecurciz iraacwim gaduzwel sopod to naffah av ir ceh aluusubes sefboilo ineimek."
+  },
+  "apiKey": "72a696105e2c9e236afd8a192741270422a9b2f83a351c3ba70df296b7760e57",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
