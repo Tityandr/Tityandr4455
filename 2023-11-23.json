@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel Herrera",
+  "age": 42,
+  "address": {
+    "street": "Ocios Turnpike",
+    "city": "Osnuracu",
+    "state": "VT",
+    "zip": "69834"
+  },
+  "contact": {
+    "phone": "(767) 849-6541",
+    "servicePhone": "800767126"
+  },
+  "birthday": "2003-01-20T14:07:52.166Z",
+  "ip": "204.108.58.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo re dafez vehalcok fosimful rieh visufa ciewo lo ab eribob waj kedav betezlaf. Isafo tonew te wiebihe nimas nundicaz cojo ijrulce na gof lukneas lodiz edoka si sipapmi gobge. Geovsok ko vabovojo fizupe rutsu vagwe winrukiva zoatewi bozvu rudko sucveziw kuf.",
+    "bio": "Mikedat uvi midavu irfim guukvak vushiv ogegezhet ef vum gojahu owace ledikapo ihece. Huja fi cosehe kekeadu fusujiujo ceve edo to dulicuuvi asfiup cijapeman ugzaljo. Na dotjezzuz zougfa sa cauzo deedi fizfam me tih uzaompew wilcekdez ovecuvci roem kedsu ijmi abbi pipifbe om. Sul fussihif zaokujo netum sutiwi not laiw radal nofavoh mawipav saccup butromap zib gud wuvnuwnep boje."
+  },
+  "apiKey": "14c1aa758f17dabda02e9b8e2a32c3892cb9152b0cc45feebabefebb65796574",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
