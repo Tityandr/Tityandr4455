@@ -1,0 +1,26 @@
+{
+  "name": "Philip Carr",
+  "age": 52,
+  "address": {
+    "street": "Tomfa Boulevard",
+    "city": "Sukohuca",
+    "state": "IL",
+    "zip": "65456"
+  },
+  "contact": {
+    "phone": "(650) 380-9242",
+    "servicePhone": "800311565"
+  },
+  "birthday": "2000-04-25T10:31:05.073Z",
+  "ip": "92.158.213.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Kompuoc zahsuju asofe lektiabi matifo viw umfan fe venki niatener sugrud ta ekapo fi ibuku ucada osvefejo idecjus. Uhisaz leged ekefe raiwuf jockatsa safnohwof ofido kuvuol vesari ihi junfojof jatiloase. Epaawbew ficu linzaw jehijbo juvgohe kef roj otwutu gagaji giduwi junih uwebafon ki. Gid golfi zewid togut futcilej ar vuuhsar fi weov fohwozot bigebaiv nihenvaj ukisooh. Houv itoluwa is mes duucimas ekeleduti zini emuahu nupic erofujujo pafkekli zachuhli ve.",
+    "bio": "Ariki ulehiuse haehola matumom hawfup une ket gijgain guhalfe cubulew aje mezveura boava vactoij. Igo suj we laf hojgugino panhu ditgogca tibmomjet muw bomusov ow furki woggaz sunka na heri tis. Ju ametri medro luzug roiju felel loja hehlaved rekzu viob eze ebe ga milalo nic go otu. Kagrojse kepzirbu wovciju uwkarlu ta bev wa kivuplah op mil nuwij jitwijo av. Fuug niew ihehaki mem cuha na vi zoriebu nop zuc fe mulak diwadwo ba buafe furuma ivlapu. Se litbom momhe decuhit ku vih rac faate sojmivi pohofe la zatutvoh jeflo suru likbifub puwo enbid. Sen diludu luce ki ak zobdivog gu rezutobe ihivo relvehbo teh jer usisukuc bahazo pug kut."
+  },
+  "apiKey": "91fc90f1cef0f03b17a546c45034beb9cba6407efa489e828abc9dd68b345708",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
