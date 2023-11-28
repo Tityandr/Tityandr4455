@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Medina",
+  "age": 21,
+  "address": {
+    "street": "Zelu Way",
+    "city": "Sareho",
+    "state": "NC",
+    "zip": "47736"
+  },
+  "contact": {
+    "phone": "(370) 254-5369",
+    "servicePhone": "800472491"
+  },
+  "birthday": "1997-07-31T11:24:03.357Z",
+  "ip": "4.162.215.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Binuwlu cafpan boforbi moifi fori cu cus liko la kus ikouki lomuse cos inku. Zetek jesijap se ric povod soso sod ag zuvef vev zajoki motu fal ipig hoju. Podva nioheli zenvem idduw salu kebreni bitawu unpi os rucumdec dikik ateseak.",
+    "bio": "Ivetdu hico lafulec biv oservo edbavzu usufiugo tib gofsoc siha daj naci ogeap cewmik gezpilu ziwire jul. Buew ofubowiw sewose ocepin puowuwa tivo cuzicus od sigas wacasvaz pigbuap jopizin zo. Biggo rakbuzjaf uwoufo zinzifihi po ifu fu zujol ovuku hittozja kedug ag new vifel arece iwzatoza refukner kapin. Ku ni midumucer ivamun voumvov fiekesu veku oc guege burditu eride ob baj ciuset pinsasdoz hubgaj hok. Seficra huvtedafo jutasmu lundo zuwbapo gege kapepco izi opweba jikvovno te odigeg giwfefaz. Ku ra ap sadibzi puci odu renupupig hecibuov fadi mapih nontepor penzap gilcalub di cofe vir dabavag sopfaw."
+  },
+  "apiKey": "2da011df785573bf5165ddda6d48e50574789ec1ab255dca0032d59c869aaa8b",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
