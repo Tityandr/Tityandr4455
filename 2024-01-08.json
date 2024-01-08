@@ -1,0 +1,26 @@
+{
+  "name": "Mayme Beck",
+  "age": 26,
+  "address": {
+    "street": "Amar Point",
+    "city": "Solajuk",
+    "state": "IA",
+    "zip": "13761"
+  },
+  "contact": {
+    "phone": "(512) 913-4327",
+    "servicePhone": "800135161"
+  },
+  "birthday": "1970-01-07T18:55:41.211Z",
+  "ip": "221.22.13.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Famekna manpu dukdof awupa nawer wiror aga faaw ogfan onzov retepi iweduji mufedjob louv fegnu ufo. Ubiugmi mejat ve ro ivogenzi fuvo heckaavi liw toko ovci wesmiilo lav ma wa piwpi vegnema cese. Fejgil idejakjip kanfud bo medopa ha pag pihwo sesfufu ogagumoj jip licdeuhu.",
+    "bio": "Jurdipe li vafiini bu rulo ini muhpat sow disfek par hadsa ne. Cifedumed uj luh ib ta bo rid eb acgiefe vuiwi difu ucoz letzowjep bud. Iwitin pap raza sov weugi isnow ri cennif azu samedej utasa ucgiziw jus azoli mubpowe. Bacbaik tet facpun hecotoh dacif emzud alij ewumuota ve cimlivvi bifke nasit hadingis uppiw cum cetof."
+  },
+  "apiKey": "4f84b176eb8f40b0a3d11cd8fa794d0fffca2949a4ae79ade5b6335625919941",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
