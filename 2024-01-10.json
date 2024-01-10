@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Morton",
+  "age": 27,
+  "address": {
+    "street": "Guppa River",
+    "city": "Dilecup",
+    "state": "WY",
+    "zip": "45836"
+  },
+  "contact": {
+    "phone": "(630) 331-3247",
+    "servicePhone": "800494723"
+  },
+  "birthday": "1979-09-13T09:38:39.960Z",
+  "ip": "4.155.195.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Heed buklinin me bifeli tekep zehzimpo fime enuco pemu zi micomar noc fehwa subauwi supodrez parhehjap ed if. Sihetako bibkiha sojtubon sujag ti iv vogemte bib solgat fe safa sepo eju zet wik zugkogon. Ojtulo jigahasi nofizu savmo ri bep jetafjo ibfokde jiw halmus piar vujos fu zur fudcelgo ji.",
+    "bio": "Ufsurme rufezku ivrarlu maz melelur ufa ododu ijlik lel ado itoukaatu no ir nu fizlu wikame. Ofavoh adbeh sup gitdocuz ruh kajez ihvejag litso giracokid wafbejare novtedsoh job rebsu. Kihsaag vuzod bu pa degoovo guodu ev pibeho si hodidaru dibupijiz icwo cafaolo isapukige nujepep tovijmo. Anudena hupnom tude gevo tuhefrib ruosreh zihsopce walvad nivo bik ruvi so jiwuj bivula kuhug. Fo bomap nun rocipe decidkun ok kungijib ca bi wib rep cuk gusgu wu uhogenovu. Ehtis mahezub pum jahbipbu si honimba oduci ema cacra raho wi nondi tuzlaro."
+  },
+  "apiKey": "9501bea6b4c91357da3b6dd259ffc05ebc20b4f6e051d957b7c921b9b48e8e26",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
