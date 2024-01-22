@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Cunningham",
+  "age": 19,
+  "address": {
+    "street": "Adtu Mill",
+    "city": "Cuhjivva",
+    "state": "IA",
+    "zip": "77375"
+  },
+  "contact": {
+    "phone": "(935) 507-9869",
+    "servicePhone": "800636985"
+  },
+  "birthday": "1972-03-26T19:56:28.600Z",
+  "ip": "110.29.154.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Mabojfom ilerada riso ehocesa fufipa buba tulatres ju leud ojvi cufacuag godmiivo walzawsow. Ic utuofca sit opa obenusaba ga ki sojdu ucapufur lehko esu cemhuv buinjos ni pumgesweg lu jadwibi. Awofaw kic keibo nativ zonado tomcu esi cobu rufu gapgeku medposvo cofja bob rusocsur.",
+    "bio": "Dodeuz buwjez todad hadut fem al pofo in tuc hadej akvafda ki ogace wiz libbe wulesga gum bikitifu. Sopapuuj heagi apolouj vaev gop puzfotot mamoc ponifo fo sifop ki jozcez fehfac maggulun tivbuv rawakdu. Jutzakufa ezaz ven log vobniwo iviku ir si bazgaprej rigece lo gebehnop luecda miwmi jouha etmu aro."
+  },
+  "apiKey": "dfce3c3db510de4e13df725d6897cdf677faf65c5c81dba1b19391278789be62",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
