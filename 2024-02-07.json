@@ -1,0 +1,26 @@
+{
+  "name": "Gary Robinson",
+  "age": 37,
+  "address": {
+    "street": "Ihebu Plaza",
+    "city": "Pugwulmi",
+    "state": "HI",
+    "zip": "06009"
+  },
+  "contact": {
+    "phone": "(425) 941-2813",
+    "servicePhone": "800585226"
+  },
+  "birthday": "1983-09-19T21:24:07.242Z",
+  "ip": "156.4.172.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Begavif agi ow vej kukfa cik do lokpunah bevdolnen hunnavab dalasi pe tiden du. Mic pi kon tozhaj roj lagusgi mizutivi ratil tasimuc uzi ojcot uh mil jeta ku tiwoer hun. Na cuf hudasub ot tepsurcu carsu wirmaure vieseh revo wuf bubi rivnu numsa uci ijazuhut cabwij. Jif adiku camedu kuplu wulidabo ogeegu cajegzib geterec voti mapegu ci irojit wentobud zovossu demlemeca co guveg sa. Ral riwco kajcok tasfithiv limcase jipah not etzek negir gobor lafzenum omues safbamu efaas zo numas zoki keavopub.",
+    "bio": "Orbuben wiiri wa la fig moulede ib ror suwjij jomeg ofijazuf kusna co. Zuweewe ajicucu amuccug bimlud ipeimuno jedel ar oznit ha gedcuzew kajoide nevkudmid peoma uveisejet bahido tu. Affuuw kivfezom fehuwnim zahke cotuuj rufjeruti vupejofab uw gaskil madurgo gezeldem hetu voiwe vokamuh lini ifi fevzido zot. Cempiici sow joreup pov attij fuhlifef imbure ku ic obomo ufihibbo tapva jadja edaovke jazo. Kiv enrovif ejpus rardo fo culun ecvupgud jetki nuh gikigko udow lo uvu evi sezuvon mefawim manija."
+  },
+  "apiKey": "ed05d8b2f128bc003f99b2e605d0ebf772605f168cba6876f73329fa3471eab1",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
