@@ -1,0 +1,26 @@
+{
+  "name": "Corey Perry",
+  "age": 30,
+  "address": {
+    "street": "Cumik Heights",
+    "city": "Onohuit",
+    "state": "DE",
+    "zip": "46241"
+  },
+  "contact": {
+    "phone": "(703) 721-2903",
+    "servicePhone": "800149945"
+  },
+  "birthday": "1982-09-28T15:51:13.118Z",
+  "ip": "118.76.157.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Gudujsoj lececzaw peri re pasdi viw no dusour sum lipvit disrip onuro ara gilote hiw bup ehe dac. Wor henosja zi riak no mop bif egtop abapat vobwo sono du fi siwnan ura koacezut wehez. Hajecob nudi gaug vop usani tik rez hufijbo kik nezo hudizuhi ug ja.",
+    "bio": "Ak esalo movodiri gusmek pebdihan rof mi it delfo ako darfear wez kerij. Iz legci vikaf riabudop mibmav ihi fomnulkim ludedem rohtidvom uveagtuw avowifoc wu zimivvo zalog jeez. Igmi eno debzu vecaguz libto nen lu efalade wozi huehunes lapjese bazkup itipemak deuz dabieni opi fedacas. Jejedo poujeuc jeg dohpof koru ipisovned bawal vogez zutza esga kibi woh ru zubeen ugizuda depat wamun pusile. Bugveoz zadolub asa niwjolo almisjiv pude biwihpel ruepo bidnuahu zesori iwre koj waucfin lazowpow. Nik kob rafedme hope he fi so rukigo piukegov gezgak valepnum keicosu jus seh hujimek."
+  },
+  "apiKey": "bb532c4673bae66cad0396b5a630ebb96fa2712458f875772e3336eca53ef06a",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
