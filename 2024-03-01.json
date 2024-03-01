@@ -1,0 +1,26 @@
+{
+  "name": "Janie Stone",
+  "age": 41,
+  "address": {
+    "street": "Iduto Pike",
+    "city": "Loesila",
+    "state": "MD",
+    "zip": "77355"
+  },
+  "contact": {
+    "phone": "(941) 234-3426",
+    "servicePhone": "800817351"
+  },
+  "birthday": "2001-08-13T21:26:33.598Z",
+  "ip": "103.155.107.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Di tazzat vo up amiku olanu bo fi worje belumku wecow piucte raehu te. Ribjuv iz age nuizbag fi zizpojhi zijo umaum weinuke bivit ci ise ed. Jahim owlules mandiw nagob likiep ul hoehe apoonpuv ul etimureg waffaz eji kisawe dowde. Howo malvanok maj ka gasucicu zuuhzib ib ucuze ak rodiko wetaap odusut iblipge kovfele pionode.",
+    "bio": "Mup wabu og iniwo ku je todma ut sozulli anihrof tuha orufomit hocilgut hiz. Babur cewoc durokwo kokajro mi wicueci otiisgum tehheve vemwi ogesaroj fimus todsergut nevmizihi pemi ruvamte pa. Mujlokbi tagcugzac sej wopoavi rusigon mitmiroj ziwudizug vop apeub sagaji ne gudco edazo uregicug fared. Lucjetak ceedpi fu eho mo secamwiw saeku houla rour tajira utavasik ku hepforze dumumu hiakapih cojpedif hockewaf."
+  },
+  "apiKey": "a60c527ae041225e665d2d8e4dfbcc6e8c043450e65cb2e6283f3af734529881",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
