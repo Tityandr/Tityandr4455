@@ -1,0 +1,26 @@
+{
+  "name": "Joe White",
+  "age": 54,
+  "address": {
+    "street": "Vidki Mill",
+    "city": "Wuldagub",
+    "state": "HI",
+    "zip": "86256"
+  },
+  "contact": {
+    "phone": "(954) 845-7398",
+    "servicePhone": "800165571"
+  },
+  "birthday": "1966-06-15T06:11:18.847Z",
+  "ip": "175.158.201.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Ticol gujrusowi atgido fu ufucisu oti umpabi mancuom di he gasicmil ce ki. Maema od lobten mi miwulaho gomip to kuci nelab dizreota lezuwob so agamefeso nutoobu ovdu eb wum duk. Zolap ri labsav fep nime wakkec lenun pe vebuvime bifduh aweposdis tamriswez. Kog naudnu tutafmo je wudessa apja vaafzo eka bopcutun sazhu ujida beb mozcukew rob kackejib ki gebemca.",
+    "bio": "Afne haso pem is pe piwoc es gigeda ow mubdelvo be di. Ew eji vebomo zupmutvan ifdajij rimgi teebnu oju duce cez fovsaco silacueji jaztat sagdi. Na pure va wo kititwaw apsom em pajdakup votdi tefvec ete awelim wuf kum. As isaco ivhalli izepuewi zajuje maj ujiujleb hofce dal wu narih cu ulizatpow ris."
+  },
+  "apiKey": "d88e94e4ec20bd0eb1f7d5a8c653b891a2e286ced3d16b9d8ab49b84445de2bf",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
