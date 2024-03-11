@@ -1,0 +1,26 @@
+{
+  "name": "Troy Lane",
+  "age": 28,
+  "address": {
+    "street": "Lizon Junction",
+    "city": "Rumvawe",
+    "state": "IN",
+    "zip": "80292"
+  },
+  "contact": {
+    "phone": "(577) 543-4270",
+    "servicePhone": "800742432"
+  },
+  "birthday": "2005-01-17T07:05:21.550Z",
+  "ip": "146.82.55.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Lot jawedu ibpunwe bo am ge ofa ep wocek litsijnec ettoejo saajo eca cu kotsek. Nemugzo majzah ror jum alagipne wo elpo eseguvlun an megbonvec tu osomidun tah werupig. Inukazbo mawakdip use lecca vo ra vidko nuahuh inaciwli goge hot wamgabig hitno si tiub dafinosuh.",
+    "bio": "No ohrasog zeujel gofwa dofe joburiwo gejiz nukov on jek cujvadow go jo loati irvizowa hauno daf. Ticipob vila dizoca tifvihez cekdujjuh sas jukulpuf zukfi dednureje anokenlon galmo wogej ra mejce bavag re gofehu ivuhpe. Dusot varug jezu hahef jowildu asvajar omesev jidhusoh gi citarul dapsica wos iwudon. Loalo ef onol vej wof zu roczo kej urhuhow bon uzka asubagit nihi ebe. Feoruwe aravevo igwade hawnaek ti cej koku fiket cirwuro patzu fef ci. Lagso mojvigmul ez jajukcu mivazwen vej fakfen cowum ki guova jeluri foliul. Ko betiitu ha wimakid vuvi hij ninus hafajoz ulgowape tokejuc faben bavle."
+  },
+  "apiKey": "6239480bc45e13278b5a85f898edae171fc578d8709c5f8b8aa84ecbd4219935",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
