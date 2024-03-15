@@ -1,0 +1,26 @@
+{
+  "name": "Ora Burke",
+  "age": 24,
+  "address": {
+    "street": "Coor Place",
+    "city": "Jotpane",
+    "state": "WA",
+    "zip": "50967"
+  },
+  "contact": {
+    "phone": "(243) 653-9705",
+    "servicePhone": "800832423"
+  },
+  "birthday": "1988-07-25T18:20:01.294Z",
+  "ip": "52.233.158.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Cum biwde binew bujdif tezbocce mi osasukne rowjaf rov maj ah ci roupfa kajbohof ra. Mal nejolfim noapegi ope meb elevide majboze fakesuriv riconjub kagsomnut recajot im kispe jor todjieva supfalok otuib zihvo. Bef if ipiig jaw ezabe jo jel gak et taphejhud revmaf jirbujil vitcuvdu naj oso sage. Boctaw eza jipezu bapem pelitca bejok gowiggad novtoow jucpil kaber looniuz ji vajidejoh wilabe dozabac ikwozwa sef. Hertodsa igu elo enekajos tivemen digpor dahzelra zitahof iwe sot pohe zaheuc.",
+    "bio": "Gozgo buv eboza dowpira bohaoz esgip tepeh hahcufar wi ohpet lite zado retzo po huzucuz mukel eliudzo kofwani. Pibjifko ob de sofbe odbiwuv nic us fojmulbe kuhod vi cirer hakec tuv. Zip ru ek tu fufugo weacifi vegez ameoto penhe tilofu gobasog te caoku. Mikukeg teif hitod hiralke uzlibvep lohwu ru vawehi ara oralon gig uc ruwek nokrez."
+  },
+  "apiKey": "a70aa58999bad4838112c7b5e4719eb6bf443666d4d5e67ca06128b35cabd4a4",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
