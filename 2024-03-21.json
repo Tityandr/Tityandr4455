@@ -1,0 +1,26 @@
+{
+  "name": "Mike Knight",
+  "age": 35,
+  "address": {
+    "street": "Ezewum Park",
+    "city": "Meneuvu",
+    "state": "CO",
+    "zip": "73275"
+  },
+  "contact": {
+    "phone": "(901) 885-4345",
+    "servicePhone": "800768998"
+  },
+  "birthday": "2003-10-14T03:17:29.046Z",
+  "ip": "131.82.189.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Zel dibabes dabut vagioma ot ma fawga volzojal momti hosletej tes dakivuwo abamu soriwku rumumeli. Peogihif awalo zoargof mecok hivepla tiire setpovlaj riwuc esifdek to ni bif egupovme pojmupum an ihe. Batokol he weplum du ubief zogveaj lug zacu oc inuuloife wakifeje icto le cavrabiz teb cennak. Ac dakmu zotdac in figgozic obearatar ikjag age ti va madovi kom ha von dur juek tavimo ihnas. Lattanbud luvfe gaasi as hatoba ivofomgel re calikuf uw sova buzaki ta.",
+    "bio": "Abicu lutezobag atkeh ahe po kiwe sif telu bijlo ropofwo li pabkojvak ripjoczu nugije gabalaab vedzi rewgusod nilis. Vapenze seceh ibnore mageami dut detfeffol hag kofdaen fosotde ruvcahgod ne awohe fu vucup na la cigowi konigapuk. Mapujod ahso kupabud boawupi tecpuhez atovehdeh ikose niwampaf rib jaote wi bifziseh calfer. Ecilarwi zepog se ab op hihaka gerivjim pagni semufi ope gobuv ifoluuma awoba pagtat peca."
+  },
+  "apiKey": "f1cb2fb5f316549f2bcb356e0118afd8f7481fb5dc9e1f37b1d14d0bd39ac8db",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
